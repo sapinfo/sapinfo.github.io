@@ -1,0 +1,33 @@
+이 앱은 
+1. 택시기사는 이 앱을 구동시켜놓고 대기상태에 있습니다.
+2. 본사에서 관리자가 시스템으로 오더를 전송하면 이 앱에서 그 정보를 자동으로 수신하여 화면에 보여줍니다.
+3. 기사가 화면에 정보를 확인하고 confirm버튼을 터치합니다.
+4. 그러면 좀더 상세한 오더정보를 표시하는 화면이 나옵니다.
+	여기에서 기사는 손님의 목적지, 요금, 요금지불방법을 본사로부터 알림을 받습니다.
+5. 기사는 내용을 확인하고 Send 버튼을 터치하여 현재 운행상태를 Driving을 전환하고 
+실제 손님과 통화한 후 손님이 있는곳으로 운행을 시작합니다.
+6. 기사는 손님과 만난후 손님을 태우고 목적지까지 ride 해주고 complete 버튼을 터치하여 운행을 종료합니다.
+7. 간혹 손님이 취소를 원할 경우 cancel버튼을 터치하여 운행을 취소합니다.
+
+부가기능
+chat
+본사와 기사는 화면 상단에 위치한  chat 아이콘을 터치하여간단한 의사소통을 할수있습니다.
+오더 내역확인
+기사는 화면상단의 report아이콘을 터치하여 특정날짜를 선택하여 그날의 운행기록을 조회할 수있습니다.
+
+this app
+1. The taxi driver runs this app and is on standby.
+2. When the manager sends an order to the system at the head office, the app automatically receives the information and displays it on the screen.
+3. The driver confirms the information on the screen and touches the confirm button.
+4. Then, a screen showing more detailed order information appears.
+Here, the driver receives a notification from the head office of the customer's destination, rate, and payment method.
+5. The driver checks the contents and touches the Send button to switch the current driving status to Driving.
+After talking with the actual customer, the operation starts to the place where the customer is.
+6. After meeting with the customer, the driver picks him up, rides him to the destination, and touches the complete button to end the operation.
+7. Occasionally, if a customer wants to cancel, touch the cancel button to cancel the operation.
+
+Add-ons
+chat
+The head office and the driver can communicate simply by touching the chat icon located at the top of the screen.
+Order history confirmation
+The driver can select a specific date by touching the report icon at the top of the screen to view the driving record for that day.
