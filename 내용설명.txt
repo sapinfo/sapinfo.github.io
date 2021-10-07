@@ -1,4 +1,6 @@
-이 앱은 
+이 앱은 LA에 위치한 Hana Taxi 회사에서 사용하는 시스템으로 오피스에서 기사에게 콜오더를 자동으로 전송하고 처리하기위해 개발한것입니다.
+이 앱의 사용방법은 아래와 같습니다.
+
 1. 택시기사는 이 앱을 구동시켜놓고 대기상태에 있습니다.
 2. 본사에서 관리자가 시스템으로 오더를 전송하면 이 앱에서 그 정보를 자동으로 수신하여 화면에 보여줍니다.
 3. 기사가 화면에 정보를 확인하고 confirm버튼을 터치합니다.
@@ -15,19 +17,42 @@ chat
 오더 내역확인
 기사는 화면상단의 report아이콘을 터치하여 특정날짜를 선택하여 그날의 운행기록을 조회할 수있습니다.
 
-this app
+This app is a system used by Hana Taxi company located in LA, and was developed to automatically send and process call orders from the office to the driver.
+How to use this app is as follows.
 1. The taxi driver runs this app and is on standby.
 2. When the manager sends an order to the system at the head office, the app automatically receives the information and displays it on the screen.
 3. The driver confirms the information on the screen and touches the confirm button.
 4. Then, a screen showing more detailed order information appears.
 Here, the driver receives a notification from the head office of the customer's destination, rate, and payment method.
-5. The driver checks the contents and touches the Send button to switch the current driving status to Driving.
-After talking with the actual customer, the operation starts to the place where the customer is.
-6. After meeting with the customer, the driver picks him up, rides him to the destination, and touches the complete button to end the operation.
+5. The driver checks the informations and touches the Send button to switch the current driving status to Driving.
+After calling with the actual customer, the operation starts to the place where the customer is.
+6. After meeting with the customer, the driver picks him/her up, rides him/her to the destination, and touches the complete button to end the operation.
 7. Occasionally, if a customer wants to cancel, touch the cancel button to cancel the operation.
 
-Add-ons
-chat
-The head office and the driver can communicate simply by touching the chat icon located at the top of the screen.
-Order history confirmation
-The driver can select a specific date by touching the report icon at the top of the screen to view the driving record for that day.
+Additionally This app has chat.The head office and the driver can communicate simply by touching the chat icon located at the top of the screen.
+and Driver can check order history.The driver can select a specific date by touching the report icon at the top of the screen to view the driving record for that day.
+
+
+1. Is your app restricted to users who are part of a single company? This may include users of the company's partners, employees, and contractors.
+answer: yes, only taxi driver of the company, company name is  LA HANIN & HANA TRAVEL
+2. Is your app designed for use by a limited or specific group of companies?
+- If yes, which companies use this app? LA HANIN & HANA TRAVEL
+- If not, can any company become a client and utilize this app? only LA HANIN & HANA TRAVEL can use.
+3. What features in the app, if any, are intended for use by the general public? 
+answer: no features for public.
+4. Identify the specific countries or regions where you plan to distribute your app.
+answer: USA.
+5. How do users obtain an account?
+answer: adminstration department of the company create an acount and deliver to users.
+6. Is there are any paid content in the app? For example, do users pay for opening an account or using certain features in the app?
+answer: no.
+7. Who pays for the paid content and how do users access it?
+answer: no paid content.
+
+This app is restricted to users who are part of a company LA HANIN & HANA TRAVEL and 
+
+이 앱은 LA HANIN & HANA TRAVEL 회사용이며 이 회사소속의 택시 드라이버를 위한 앱입니다. 그래서 다른 사람은 사용할수 없습니다. 또한 이앱에는 일반 공개용 어떤기능도 포함하고 있지않습니다.
+또한 이 앱은 미국내에서만 유효합니다. 그리고 이 회사의 관리부서에서 이 앱의 Account 를 발급하며 해당 Taxi drvier 에게 안전한 방법으로 제공합니다.
+그리고 이 앱에는 어떠한 유료 컨텐츠도 포함하고있지 않으며 따라서 어떤 누구도 따로 비용을 지불할 필요도 없습니다.
+
+
