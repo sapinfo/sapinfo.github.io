@@ -6,6 +6,15 @@
 택시회사를 운영하시는 모든분들을 환영합니다. 저에게 컨택하십시오. 
 그리고 이 앱을 사용하여 각 회사들의 콜오더를 받아서 영업을 하고싶으신 택시기사님들은 언제라도 앱을 통해 Signup을 하시고 해당 택시회사에서 연락을 기다리시면 성공적으로 사용할수있습니다.
 
+This app has been completely redesigned and developed with a completely different approach and is open for use by any company in the world, not for a specific company. It is also open to anyone who wants to do business using this app, so anyone can sign up.
+
+This app is an innovative system that helps general taxi companies anywhere in the world to receive call orders from customers and automatically receive and process real-time information that has been handled manually.
+In the meantime, A company gave the driver a call order by phone or text message, but now it's different. You can receive a call order with this app wherever the driver is.
+It doesn't matter whether you're in the car or eating at a restaurant.
+Everyone who runs a taxi company is welcome. Contact me.
+And taxi drivers who want to do business by receiving call orders from each company using this app can use it successfully by signing up through the app at any time and waiting for the taxi company to contact you.
+
+
 아래처럼 특정회사용 앱은 리젝됨. business account 만들어서 하라고함.
 
 이 앱은 LA에 위치한 Hana Taxi 회사에서 사용하는 시스템으로 오피스에서 기사에게 콜오더를 자동으로 전송하고 처리하기위해 개발한것입니다.
