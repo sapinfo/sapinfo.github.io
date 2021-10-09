@@ -1,3 +1,31 @@
+안녕하세요.
+당신으로부터 많은 고쳐야할점을 듣게되어 저로서는 배울수 있는기회가 된거같아 기뻤습니다.
+당신이 지적한 몇번의 사유에대해 나는 많은 생각을 하였고 이 앱을 완전히 접근을 달리하여 재설계하고 개발하여 특정회사를 위한것이 아닌 전세계 어느 회사라도 사용할수 있도록 개선되었습니다. 
+또한 이 앱을 사용하기를 원하는 모든 사람들에게 역시 오픈되어 누구든 Signup 할수있습니다.
+이 앱은 전세계 어디서나 일반택시회사들이 고객으로부터 콜오더를 받아서 그동안 수작업으로 처리하던 것을 자동으로 실시간 정보를 받아서 처리할수있도록 도와주는 혁신적인 시스템입니다. 
+그동안에는 기사님에게 전화나 문자메세지로 콜오더를 주었지만 이제는 다릅니다. 기사님이 어디에 있건 이 앱으로 콜오더를 받을수있습니다. 차안에 있거나 또는 식당에서 식사중이거나 할때도 상관없습니다.
+택시회사를 운영하시는 모든분들을 환영합니다.
+그리고 이 앱을 사용하여 각 회사들의 콜오더를 받고싶으신 택시기사님들은 언제라도 앱을 통해 Signup을 하시고 해당 택시회사에서 연락을 기다리시면 사용할수있습니다.
+저는 당신의 말에 귀 기울이고 많은 것을 수정하였습니다.
+부디 나는 당신으로부터 좋은 소식을 듣고싶습니다.
+감사합니다.
+
+
+
+Hello.
+I was happy to hear from you that it was an opportunity for me to learn many things that need to be corrected.
+For the few reasons you pointed out, I thought a lot and redesigned and developed this app with a completely different approach, so that it could be used by any company in the world, not just for a specific company.
+It is also open to anyone who wants to use this app, so anyone can sign up.
+This app is an innovative system that helps general taxi companies anywhere in the world to receive call orders from customers and automatically receive and process real-time information that has been handled manually.
+In the meantime, I gave the driver a call order by phone or text message, but now it's different. You can receive call orders with this app wherever the driver is. It doesn't matter whether you're in the car or eating at a restaurant.
+Everyone who runs a taxi company is welcome.
+And taxi drivers who want to receive call orders from each company using this app can use it at any time by signing up through the app and waiting for a call from the taxi company.
+I listened to you and made a lot of changes.
+Please I want to hear good news from you.
+thank you.
+
+
+
 이앱은 완전히 접근을 달리하여 재설계하고 개발하여 특정회사를 위한것이 아닌 전세계 어느 회사라도 사용할수 있도록 오픈되었습니다. 또한 이 앱을 사용하여 영업을 하기를 원하는 모든사람들에게 역시 오픈되어 누구든 Signup할수있습니다.
 
 이 앱은 전세계 어디서나 일반택시회사들이 고객으로부터 콜오더를 받아서 그동안 수작업으로 처리하던 것을 자동으로 실시간 정보를 받아서 처리할수있도록 도와주는 혁신적인 시스템입니다. 
