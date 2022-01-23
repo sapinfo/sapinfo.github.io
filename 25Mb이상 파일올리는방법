@@ -1,5 +1,6 @@
 https://git-lfs.github.com/
 
+git pull
 
 git add app-release.apk
 git commit -m "Add apk file"
