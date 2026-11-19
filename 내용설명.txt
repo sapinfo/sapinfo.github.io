@@ -1,0 +1,108 @@
+안녕하세요.
+당신으로부터 많은 고쳐야할점을 듣게되어 저로서는 배울수 있는기회가 된거같아 기뻤습니다.
+당신이 지적한 몇번의 사유에대해 나는 많은 생각을 하였고 이 앱을 완전히 접근을 달리하여 재설계하고 개발하여 특정회사를 위한것이 아닌 전세계 어느 회사라도 사용할수 있도록 개선되었습니다. 
+또한 이 앱을 사용하기를 원하는 모든 사람들에게 역시 오픈되어 누구든 Signup 할수있습니다.
+이 앱은 전세계 어디서나 일반택시회사들이 고객으로부터 콜오더를 받아서 그동안 수작업으로 처리하던 것을 자동으로 실시간 정보를 받아서 처리할수있도록 도와주는 혁신적인 시스템입니다. 
+그동안에는 기사님에게 전화나 문자메세지로 콜오더를 주었지만 이제는 다릅니다. 기사님이 어디에 있건 이 앱으로 콜오더를 받을수있습니다. 차안에 있거나 또는 식당에서 식사중이거나 할때도 상관없습니다.
+택시회사를 운영하시는 모든분들을 환영합니다.
+그리고 이 앱을 사용하여 각 회사들의 콜오더를 받고싶으신 택시기사님들은 언제라도 앱을 통해 Signup을 하시고 해당 택시회사에서 연락을 기다리시면 사용할수있습니다.
+저는 당신의 말에 귀 기울이고 많은 것을 수정하였습니다.
+부디 나는 당신으로부터 좋은 소식을 듣고싶습니다.
+감사합니다.
+
+
+
+Hello.
+I was happy to hear from you that it was an opportunity for me to learn many things that need to be corrected.
+For the few reasons you pointed out, I thought a lot and redesigned and developed this app with a completely different approach, so that it could be used by any company in the world, not just for a specific company.
+It is also open to anyone who wants to use this app, so anyone can sign up.
+This app is an innovative system that helps general taxi companies anywhere in the world to receive call orders from customers and automatically receive and process real-time information that has been handled manually.
+In the meantime, I gave the driver a call order by phone or text message, but now it's different. You can receive call orders with this app wherever the driver is. It doesn't matter whether you're in the car or eating at a restaurant.
+Everyone who runs a taxi company is welcome.
+And taxi drivers who want to receive call orders from each company using this app can use it at any time by signing up through the app and waiting for a call from the taxi company.
+I listened to you and made a lot of changes.
+Please I want to hear good news from you.
+thank you.
+
+
+
+이앱은 완전히 접근을 달리하여 재설계하고 개발하여 특정회사를 위한것이 아닌 전세계 어느 회사라도 사용할수 있도록 오픈되었습니다. 또한 이 앱을 사용하여 영업을 하기를 원하는 모든사람들에게 역시 오픈되어 누구든 Signup할수있습니다.
+
+이 앱은 전세계 어디서나 일반택시회사들이 고객으로부터 콜오더를 받아서 그동안 수작업으로 처리하던 것을 자동으로 실시간 정보를 받아서 처리할수있도록 도와주는 혁신적인 시스템입니다. 
+그동안에는 기사님에게 전화나 문자메세지로 콜오더를 주었지만 이제는 다릅니다. 기사님이 어디에 있건 이앱으로 콜오더를 받을수있습니다. 
+차안에 있거나 또는 식당에서 식사중이거나 할때도 상관없습니다.
+택시회사를 운영하시는 모든분들을 환영합니다. 저에게 컨택하십시오. 
+그리고 이 앱을 사용하여 각 회사들의 콜오더를 받아서 영업을 하고싶으신 택시기사님들은 언제라도 앱을 통해 Signup을 하시고 해당 택시회사에서 연락을 기다리시면 성공적으로 사용할수있습니다.
+
+This app has been completely redesigned and developed with a completely different approach and is open for use by any company in the world, not for a specific company. It is also open to anyone who wants to do business using this app, so anyone can sign up.
+
+This app is an innovative system that helps general taxi companies anywhere in the world to receive call orders from customers and automatically receive and process real-time information that has been handled manually.
+In the meantime, A company gave the driver a call order by phone or text message, but now it's different. You can receive a call order with this app wherever the driver is.
+It doesn't matter whether you're in the car or eating at a restaurant.
+Everyone who runs a taxi company is welcome. Contact me.
+And taxi drivers who want to do business by receiving call orders from each company using this app can use it successfully by signing up through the app at any time and waiting for the taxi company to contact you.
+
+
+아래처럼 특정회사용 앱은 리젝됨. business account 만들어서 하라고함.
+
+이 앱은 LA에 위치한 Hana Taxi 회사에서 사용하는 시스템으로 오피스에서 기사에게 콜오더를 자동으로 전송하고 처리하기위해 개발한것입니다.
+이 앱의 사용방법은 아래와 같습니다.
+
+1. 택시기사는 이 앱을 구동시켜놓고 대기상태에 있습니다.
+2. 본사에서 관리자가 시스템으로 오더를 전송하면 이 앱에서 그 정보를 자동으로 수신하여 화면에 보여줍니다.
+3. 기사가 화면에 정보를 확인하고 confirm버튼을 터치합니다.
+4. 그러면 좀더 상세한 오더정보를 표시하는 화면이 나옵니다.
+	여기에서 기사는 손님의 목적지, 요금, 요금지불방법을 본사로부터 알림을 받습니다.
+5. 기사는 내용을 확인하고 Send 버튼을 터치하여 현재 운행상태를 Driving을 전환하고 
+실제 손님과 통화한 후 손님이 있는곳으로 운행을 시작합니다.
+6. 기사는 손님과 만난후 손님을 태우고 목적지까지 ride 해주고 complete 버튼을 터치하여 운행을 종료합니다.
+7. 간혹 손님이 취소를 원할 경우 cancel버튼을 터치하여 운행을 취소합니다.
+
+부가기능
+chat
+본사와 기사는 화면 상단에 위치한  chat 아이콘을 터치하여간단한 의사소통을 할수있습니다.
+오더 내역확인
+기사는 화면상단의 report아이콘을 터치하여 특정날짜를 선택하여 그날의 운행기록을 조회할 수있습니다.
+
+This app is a system used by Hana Taxi company located in LA, and was developed to automatically send and process call orders from the office to the driver.
+How to use this app is as follows.
+1. The taxi driver runs this app and is on standby.
+2. When the manager sends an order to the system at the head office, the app automatically receives the information and displays it on the screen.
+3. The driver confirms the information on the screen and touches the confirm button.
+4. Then, a screen showing more detailed order information appears.
+Here, the driver receives a notification from the head office of the customer's destination, rate, and payment method.
+5. The driver checks the informations and touches the Send button to switch the current driving status to Driving.
+After calling with the actual customer, the operation starts to the place where the customer is.
+6. After meeting with the customer, the driver picks him/her up, rides him/her to the destination, and touches the complete button to end the operation.
+7. Occasionally, if a customer wants to cancel, touch the cancel button to cancel the operation.
+
+Additionally This app has chat.The head office and the driver can communicate simply by touching the chat icon located at the top of the screen.
+and Driver can check order history.The driver can select a specific date by touching the report icon at the top of the screen to view the driving record for that day.
+
+
+1. Is your app restricted to users who are part of a single company? This may include users of the company's partners, employees, and contractors.
+answer: yes, only taxi driver of the company, company name is  LA HANIN & HANA TRAVEL
+2. Is your app designed for use by a limited or specific group of companies?
+- If yes, which companies use this app? LA HANIN & HANA TRAVEL
+- If not, can any company become a client and utilize this app? only LA HANIN & HANA TRAVEL can use.
+3. What features in the app, if any, are intended for use by the general public? 
+answer: no features for public.
+4. Identify the specific countries or regions where you plan to distribute your app.
+answer: USA.
+5. How do users obtain an account?
+answer: adminstration department of the company create an acount and deliver to users.
+6. Is there are any paid content in the app? For example, do users pay for opening an account or using certain features in the app?
+answer: no.
+7. Who pays for the paid content and how do users access it?
+answer: no paid content.
+
+This app is restricted to users who are part of a company LA HANIN & HANA TRAVEL and 
+
+이 앱은 LA HANIN & HANA TRAVEL 회사용이며 이 회사소속의 택시 드라이버를 위한 앱입니다. 그래서 다른 사람은 사용할수 없습니다. 또한 이앱에는 일반 공개용 어떤기능도 포함하고 있지않습니다.
+또한 이 앱은 미국내에서만 유효합니다. 그리고 이 회사의 관리부서에서 이 앱의 Account 를 발급하며 해당 Taxi drvier 에게 안전한 방법으로 제공합니다.
+그리고 이 앱에는 어떠한 유료 컨텐츠도 포함하고있지 않으며 따라서 어떤 누구도 따로 비용을 지불할 필요도 없습니다.
+
+택시회사는 고객으로부터 Call을 받으면 그 Call정보를 택시기사에게 이 앱을 통해서 실시간으로 보내주고 기사가 고객을 Pickup하러 갑니다. 그후 기사가 고객을 만난후 고객을 Pickup하여 원하는 목적지까지 데려다주면 임무는 끝이납니다.
+이후 택시요금중 일부를 기사가 택시회사에 정산합니다.
+
+
